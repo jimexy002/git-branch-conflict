@@ -1,7 +1,7 @@
 print("Hello, World!")
 
 # Simple addition
-a = 2
+a = 4
 b = 3
 sum = a + b
 
