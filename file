@@ -3,6 +3,6 @@ print("Hello, World!")
 # Simple addition
 a = 2
 b = 3
-sum = a + b
+sum = a + l
 
 print("The sum is:", sum)
