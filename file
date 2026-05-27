@@ -1,8 +1,8 @@
 print("Hello, World!")
 
 # Simple addition
-a = 6
+a = 2
 b = 3
-sum = a + b
+sum = v + b
 
 print("The sum is:", sum)
